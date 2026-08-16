@@ -11,7 +11,8 @@ presentation materials.
 - **Topic:** OpenClaw Companion for Windows
 - **Event:** Calgary Microsoft User Group
 - **Presenter:** Kevin Kaminski, Microsoft MVP
+- **Contact:** [kevin.kaminski@bighatgroup.com](mailto:kevin.kaminski@bighatgroup.com)
 
 ## Contents
 
-- `OpenClaw_Evolution.pptx` — the presentation slide deck
+- [`OpenClaw_Evolution.pptx`](OpenClaw_Evolution.pptx) — the presentation slide deck
